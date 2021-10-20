@@ -1,0 +1,11 @@
+C:\Desktop\CrudClientes.exe
+C:\Desktop\CrudClientes.dll
+C:\Desktop\CrudClientes.deps.json
+C:\Desktop\CrudClientes.runtimeconfig.json
+C:\Desktop\CrudClientes.pdb
+C:\Desktop\System.Data.SqlClient.dll
+C:\Desktop\runtimes\win-arm64\native\sni.dll
+C:\Desktop\runtimes\win-x64\native\sni.dll
+C:\Desktop\runtimes\win-x86\native\sni.dll
+C:\Desktop\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Desktop\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
